@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\bin\Debug\net8.0\lecture15.exe
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\bin\Debug\net8.0\lecture15.deps.json
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\bin\Debug\net8.0\lecture15.runtimeconfig.json
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\bin\Debug\net8.0\lecture15.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\bin\Debug\net8.0\lecture15.pdb
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\refint\lecture15.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.pdb
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\lecture15.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture15\obj\Debug\net8.0\ref\lecture15.dll

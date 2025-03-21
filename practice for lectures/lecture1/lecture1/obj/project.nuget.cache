@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9kFDV4ZsF0JcihqnSv15eWJBQzOs2GnwC0kQdovGvnX6XZggLTRBzWr0zgvBxgF+VG9b9Q5aOsHYZK63gOLEYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture1\\lecture1\\lecture1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

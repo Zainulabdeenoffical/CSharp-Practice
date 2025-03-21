@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|c:\\users\\admin\\documents\\.net\\c# lectures-20240714t094013z-001\\c# lectures\\practice for lectures\\lecture16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|c:\\users\\admin\\documents\\.net\\c# lectures-20240714t094013z-001\\c# lectures\\practice for lectures\\lecture16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|c:\\users\\admin\\documents\\.net\\c# lectures-20240714t094013z-001\\c# lectures\\practice for lectures\\lecture16\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|c:\\users\\admin\\documents\\.net\\c# lectures-20240714t094013z-001\\c# lectures\\practice for lectures\\lecture16\\lecture16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAD88B40-45E2-4870-B088-9C39ED44B958}|lecture16.csproj|solutionrelative:lecture16.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:06:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:06:35.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lecture16",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\lecture16.csproj",
+              "RelativeDocumentMoniker": "lecture16.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\lecture16.csproj",
+              "RelativeToolTip": "lecture16.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T10:03:11.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture16\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:02:15.184Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

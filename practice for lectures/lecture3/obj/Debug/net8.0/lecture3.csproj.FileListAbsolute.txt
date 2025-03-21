@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\bin\Debug\net8.0\lecture3.exe
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\bin\Debug\net8.0\lecture3.deps.json
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\bin\Debug\net8.0\lecture3.runtimeconfig.json
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\bin\Debug\net8.0\lecture3.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\bin\Debug\net8.0\lecture3.pdb
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\refint\lecture3.dll
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.pdb
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\lecture3.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture3\obj\Debug\net8.0\ref\lecture3.dll

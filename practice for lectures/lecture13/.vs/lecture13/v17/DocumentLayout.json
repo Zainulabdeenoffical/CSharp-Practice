@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214FF383-34B7-4E88-B43F-DF0AD8423E90}|lecture13.csproj|c:\\users\\admin\\documents\\.net\\c# lectures-20240714t094013z-001\\c# lectures\\practice for lectures\\lecture13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214FF383-34B7-4E88-B43F-DF0AD8423E90}|lecture13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\.net\\C# Lectures-20240714T094013Z-001\\C# Lectures\\practice for lectures\\lecture13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:27:42.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

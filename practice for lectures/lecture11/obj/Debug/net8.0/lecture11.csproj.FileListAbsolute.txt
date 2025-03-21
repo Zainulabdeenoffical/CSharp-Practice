@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture11\obj\Debug\net8.0\lecture11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture11\obj\Debug\net8.0\lecture11.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture11\obj\Debug\net8.0\lecture11.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\.net\C# Lectures-20240714T094013Z-001\C# Lectures\practice for lectures\lecture11\obj\Debug\net8.0\lecture11.csproj.CoreCompileInputs.cache
